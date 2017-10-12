@@ -1,6 +1,6 @@
 # msk-redefining-cancer-treatment
 
-1. Requirements
+1.Requirements
 
 System: Linux
 
@@ -17,7 +17,7 @@ Modules:
 	keras==2.0.4
 	nltk==3.2.4
 
-2. Getting started
+2.Getting started
 
 Firstly install required modules:
 
