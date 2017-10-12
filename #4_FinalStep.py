@@ -1,4 +1,4 @@
-# adjust the label which is not necessary
+# adjust the label (this step is not necessary)
 import pandas as pd
 import numpy as np
 
