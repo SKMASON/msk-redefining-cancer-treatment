@@ -1,0 +1,8 @@
+yaml==3.12
+numpy==1.13.0
+pandas==0.18.1
+tqdm==4.14.0
+sklearn==0.18.2
+gensim==2.3.0
+keras==2.0.4
+nltk==3.2.4
