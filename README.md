@@ -32,5 +32,9 @@ Run the scripts:
 
 Remarks: 
 
+	In file 'RawData', other three text files are not included due to the maximum size of 25MB:
+		stage2_test_text.csv
+		test_text
+		training_text
 	The default paths of all the files are the same for every script
 	Current configuration of model parameters achieved a score of 0.06~0.12 on the public leaderboard. Parameters can be changed as required
